@@ -22,3 +22,7 @@ with:
   who-to-greet: 'Mona the Octocat'
 ```
 
+## 参考
+
+[Creating a JavaScript action](https://docs.github.com/en/actions/creating-actions/creating-a-javascript-action)
+
